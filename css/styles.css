@@ -1,0 +1,36 @@
+.PhysMath {
+  display: inline-block;
+  width: 45%;
+  height: 200px;
+  text-align: center;
+  line-height: 150px;
+}
+
+.Physics {
+  background-color: purple;
+  margin: 50px 2% 0 2.5%;
+}
+
+.Maths {
+  background-color: red;
+  margin: 50px 2.5% 0 2%;
+}
+
+.subject-text {
+  color: white;
+}
+
+.Maths:hover {
+  margin: 25px 0 0 0;
+  width: 50%;
+  height: 250px;
+  background-color: transparent;
+  background-image: url("blackboard2.jpg");
+}
+
+.Physics:hover {
+  margin: 25px 0 0 0;
+  width: 50%;
+  height: 250px;
+  background-image: url("stars.jpg");
+}
